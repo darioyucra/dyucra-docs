@@ -1,0 +1,13 @@
+image: registry.gitlab.com/pages/jekyll:latest
+
+variables:
+  JEKYLL_ENV: production
+
+pages:
+  script:
+    - jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
