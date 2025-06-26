@@ -16,7 +16,7 @@
 title: Dario Yucra - Wiki
 description: Esta es una wiki del trabajo de Dario Yucra
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dyucra.github.io/dyucra-docs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://darioyucra.github.io/dyucra-docs" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
